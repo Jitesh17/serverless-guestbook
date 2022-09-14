@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = '';
+const apiUrl = 'https://jp-tok.functions.appdomain.cloud/api/v1/web/2272a3f6-8a13-4ed7-9ac3-36b7ace4e2e7/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
